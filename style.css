@@ -137,3 +137,24 @@ h3 {
     float: left;
     margin: 20px;
 }
+
+#donation-right {
+    color: black;
+    text-align: right;
+}
+
+.link-button-right {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-weight: 400;
+    float: right;
+    margin: 20px;
+}
+
+#update-of-mine {
+    color: gray;
+
+}
